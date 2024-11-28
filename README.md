@@ -1,4 +1,2 @@
-# Machine-learning-and-data-science-
-This repo explains : 
-1-the difference between using Trainer from huggingface for fine tuning Language Models and custom training loop.
-2-Optuna for Hyperparameters tuning. 
+# Machine learning and data science 
+This repository explain the difference between using the Hugging Face Trainer class and implementing a custom training loop for fine-tuning pretrained transformer model models. Additionally, it showcases how to utilize Optuna for hyperparameter tuning to optimize machine learning models performance.
